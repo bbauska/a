@@ -322,6 +322,10 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 	background-image: url(../images/youtube.png)
 }
 
+#tooplate_content li ul.social_links li a.snapchat {
+	background-image: url(../images/snapchat.png)
+}
+
 #contact_form { 
 	padding: 0; 
 	width: 410px; 
