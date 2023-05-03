@@ -188,6 +188,10 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 #tooplate_content #portfolio.active { 
 }
+#tooplate_content #portfolio2 { 
+}
+#tooplate_content #portfolio2.active { 
+}
 #tooplate_content #contact {
 }
 #tooplate_content #contact.active {
@@ -207,11 +211,15 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_content #portfolio span.slideno { 
-	background-image: url(../images/four.png)	
+	background-image: url(../images/four.png)
+}
+
+#tooplate_content #portfolio2 span.slideno { 
+	background-image: url(../images/five.png)
 }
 
 #tooplate_content #contact span.slideno {
-	background-image: url(../images/five.png)	
+	background-image: url(../images/six.png)
 }
 
 #tooplate_content #home span.header {
@@ -227,6 +235,10 @@ h6 { font-size: 10px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_content #portfolio span.header { 
+	background-image: url(../images/portfolio.png)	
+}
+
+#tooplate_content #portfolio2 span.header { 
 	background-image: url(../images/portfolio.png)	
 }
 
